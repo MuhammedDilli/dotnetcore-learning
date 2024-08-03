@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\İnMemoryCaching0.props" />
+</Project>

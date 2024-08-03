@@ -1,0 +1,16 @@
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\bin\Debug\net8.0-windows\ParalelForForeachCancellation.exe
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\bin\Debug\net8.0-windows\ParalelForForeachCancellation.deps.json
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\bin\Debug\net8.0-windows\ParalelForForeachCancellation.runtimeconfig.json
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\bin\Debug\net8.0-windows\ParalelForForeachCancellation.dll
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\bin\Debug\net8.0-windows\ParalelForForeachCancellation.pdb
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.Form1.resources
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.AssemblyInfo.cs
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.dll
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\refint\ParalelForForeachCancellation.dll
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.pdb
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ParalelForForeachCancellation.genruntimeconfig.cache
+C:\Users\muham\source\repos\AsenkronApp1\ParalelForForeachCancellation\obj\Debug\net8.0-windows\ref\ParalelForForeachCancellation.dll

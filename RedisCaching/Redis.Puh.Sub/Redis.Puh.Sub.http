@@ -1,0 +1,6 @@
+@Redis.Puh.Sub_HostAddress = http://localhost:5233
+
+GET {{Redis.Puh.Sub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
